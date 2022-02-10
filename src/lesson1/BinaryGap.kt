@@ -1,3 +1,9 @@
+package lesson1
+
+/**
+ * Find longest sequence of zeros in binary representation of an integer.
+ */
+
 fun main() {
     println(solution(1041))
 }
